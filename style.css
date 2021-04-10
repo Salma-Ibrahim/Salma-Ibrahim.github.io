@@ -1,0 +1,59 @@
+		body 
+		{
+			text-align:center;
+			background-color:#E6E6E6;
+		}
+		img
+		{
+			width:300px;
+			height:300px;
+		}
+		
+		p
+		{
+			
+			font-family:courier;
+		}
+		#demo
+		{
+			font-family:courier;
+			color:#334DA7;
+			font-size:50px;
+		}
+		h1  
+		{
+			font-size:300%;
+			border:2px solid #0B2161; 
+			background-color:#CED8F6;
+		}
+		h2 
+		{
+			color:#0B2161
+		}
+		.one
+		{
+			  text-align: center;
+			  list-style: inside;
+		}
+		#old
+		{
+			background-color:#C6D5E4;;
+		}
+		
+		button
+		{
+			position: absolute;
+			top: 0;
+	        left: 8px;
+		    font-size: 20px;
+			background-color:#E6E6FA;
+		}
+		a:link, a:visited
+		{
+		  background-color: #A9BCF5;
+		  color:black;
+		  padding: 15px 25px;			  
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		}
